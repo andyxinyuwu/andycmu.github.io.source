@@ -1,4 +1,4 @@
-baseURL = 'https://xinyuwu.github.io/'
+baseURL = 'https://xinyuwu.xyz/'
 languageCode = 'en-us'
 title = 'Xinyu Wu'
 theme = 'hugo-bearblog'
