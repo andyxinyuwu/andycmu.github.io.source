@@ -2,3 +2,6 @@ baseURL = 'https://xinyuwu.xyz/'
 languageCode = 'en-us'
 title = 'Xinyu Wu'
 theme = 'hugo-bearblog'
+
+[params.analytics]
+  measurement_id = "G-649QMBQG52"
