@@ -3,5 +3,8 @@ languageCode = 'en-us'
 title = 'Xinyu Wu'
 theme = 'hugo-bearblog'
 
+[params]
+	Description = "Xinyu Wu's blog. This is the place where Xinyu Wu share his learnings, thoughts, and know new friends"
+
 [params.analytics]
   measurement_id = "G-649QMBQG52"
