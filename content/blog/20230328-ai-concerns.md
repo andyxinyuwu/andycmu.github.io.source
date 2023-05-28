@@ -5,7 +5,7 @@ date = "2023-03-28T20:56:21-04:00"
 #
 # description is optional
 #
-# description = "chatGPT, AI, Anxiety, AI risks, unemployment, future"
+description = "chatGPT, AI, Anxiety, AI risks, unemployment, future"
 
 tags = ["technology"]
 +++
